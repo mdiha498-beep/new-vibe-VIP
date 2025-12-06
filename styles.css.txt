@@ -1,0 +1,4 @@
+body{font-family:Arial, sans-serif;background:#071026;color:#e6eef6;margin:0;padding:20px}
+header h1{color:#ef4444}
+#products .card{background:#0b1220;padding:12px;border-radius:8px;margin:10px 0}
+.btn{background:#ef4444;color:#fff;padding:8px 12px;border-radius:6px;border:0;cursor:pointer}
